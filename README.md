@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello World, I'm Keshav Raju - aka AidynSkullz
-### Undergraduate student by day and Hacker by night
+### Undergraduate student by day, Hacker by night
 
 ### About me
 - Exploring new technologies and building new things everyday.
