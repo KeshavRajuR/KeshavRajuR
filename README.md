@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello World, I'm Keshav Raju - aka AidynSkullz and an OSCP
+## Hello World, I'm Keshav Raju - aka AidynSkullz and an OSCP holder
 ### Undergraduate student by day, Hacker by night
 
 ### About me
