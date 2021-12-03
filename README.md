@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello World, I'm Keshav Raju - aka AidynSkullz
+## Hello World, I'm Keshav Raju - aka AidynSkullz and an OSCP
 ### Undergraduate student by day, Hacker by night
 
 ### About me
-- Exploring new technologies and building new things everyday.
+- Specialisation in Networks and Cybersecurity. Check out my **OSCP Certification** [here](https://www.credly.com/badges/dec62e6d-be65-4fb4-9e27-8d739d6bf3bf/public_url).
 - Always on the look out for the latest bugs and exploits.
 - Studying Computer Science & Engineering from PES University, Bangalore.
-- Specialisation in Networks and Cybersecurity.
+- Exploring new technologies and building new things everyday.
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/keshav-raju/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="KeshavRajuR" height="24" width="24"/></a>&nbsp;
